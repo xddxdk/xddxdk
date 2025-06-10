@@ -1,5 +1,5 @@
 # Hi, I’m Kirill 👋
-I’m ML Engineer / Data Scientist from Russia 💓
+I’m ML Engineer / Data-Scientist from Russia 💓
 
 ### Education 📘
 Bachelor's Degree in Business Analytics
