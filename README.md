@@ -2,7 +2,7 @@
 I’m ML Engineer / Data-Scientist from Russia 💓
 
 ### Education 📘
-Bachelor's Degree in Business Analytics
+Bachelor's Degree in Data Analytics
 
 ### Professional Skills 👨‍💻
 - Programming language: Python 🐍
